@@ -5,7 +5,8 @@ This is a two page website that has `index.html` and `advanced.html`. The two ar
 
 Pull requests are welcome!!!!!!
 
-Design from [white-paper](https://github.com/vinitkumar/white-paper).
+Design from [white-paper](https://github.com/vinitkumar/white-paper)...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjQwNjA3NSwtMTk1Mzg5MTE5Nl19
+eyJoaXN0b3J5IjpbLTEwMDgyNDM2NDMsLTE5NTM4OTExOTZdfQ
+==
 -->
